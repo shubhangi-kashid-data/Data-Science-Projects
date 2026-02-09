@@ -10,9 +10,9 @@ created for learning and practice.
   
         This project focuses on analyzing daily water consumption patterns and predicting an individual’s hydration status using             classification models. The goal is to understand how lifestyle and demographic factors influence hydration and to build a            machine learning model that can accurately classify hydration levels.
 
-   Dataset Size: 10,000+ records
-
-   Target Variable: Hydration Status (Good / Poor)
+        Dataset Size: 10,000+ records
+   
+        Target Variable: Hydration Status (Good / Poor)
 
    Key Steps Performed:
 
@@ -44,9 +44,9 @@ created for learning and practice.
 
         This project predicts whether a college student will get placed based on academic performance, skills, and personal                  attributes. The objective is to help understand key factors influencing student placement outcomes using machine learning            classification techniques.
 
-   Dataset Size: 10,000 records
+        Dataset Size: 10,000 records
 
-   Target Variable: Placement Status (Placed / Not Placed)
+        Target Variable: Placement Status (Placed / Not Placed)
 
    Key Steps Performed:
 
@@ -64,4 +64,4 @@ created for learning and practice.
 
     Outcome
 
-        The model effectively predicts student placement outcomes. Students with higher IQ, stronger skills, and better academic performance show significantly higher placement probability.
+        The model effectively predicts student placement outcomes. Students with higher IQ, stronger skills, and better academic             performance show significantly higher placement probability.
