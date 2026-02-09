@@ -34,6 +34,11 @@ This folder contains machine learning regression projects.
   
     Linear, Ridge, Lasso, ElasticNet, Decision Tree, Random Forest, Gradient Boosting
 
+  Outcome:
+
+    The project successfully predicts hourly bike rental demand with strong generalization performance.
+    Tree-based ensemble models (Random Forest and Gradient Boosting) outperformed linear models due to their ability to capture non-     linear relationships and feature interactions present in real-world demand patterns.
+
 
 
 # Project 2: Diamond Price Prediction
@@ -41,6 +46,10 @@ This folder contains machine learning regression projects.
   Overview:
   
     Built a regression model to predict diamond prices using physical measurements and quality attributes such as carat, cut, color,     clarity, and dimensions. The project focuses on understanding price drivers and handling skewed real-world data effectively.
+
+    Dataset Size: ~53,000+ diamond records
+
+    Target Variable: price (diamond price in USD)
 
   Key Steps:
   
@@ -66,11 +75,7 @@ This folder contains machine learning regression projects.
   
     Linear Regression, Ridge, Lasso, ElasticNet, Decision Tree, Random Forest, Gradient Boosting
 
-  Key Insights:
-  
-    Carat has the strongest influence on diamond price
-    
-    Higher cut, color, and clarity grades generally correspond to higher prices
-    
-    Log transformation significantly improved model stability and performance
+  Outcome:
+
+    The project successfully predicts diamond prices with strong accuracy after handling skewness and outliers. Tree-based ensemble      models such as Random Forest and Gradient Boosting performed best due to their ability to capture non-linear relationships           between carat, quality attributes, and price.
 
